@@ -1,8 +1,8 @@
 # !!! # Crawl responsibly by identifying yourself (and your website/e-mail) on the user-agent
-USER_AGENT = 'TweetScraper'
+USER_AGENT = 'abracadabra@gmail.com'
 
 # settings for spiders
-BOT_NAME = 'TweetScraper'
+BOT_NAME = 'Abra Cada Bra'
 LOG_LEVEL = 'INFO'
 
 SPIDER_MODULES = ['TweetScraper.spiders']
