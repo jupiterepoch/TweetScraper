@@ -1,8 +1,8 @@
 # !!! # Crawl responsibly by identifying yourself (and your website/e-mail) on the user-agent
-USER_AGENT = 'abracadabra@gmail.com'
+USER_AGENT = 'aes256smtp@gmail.com'
 
 # settings for spiders
-BOT_NAME = 'Abra Cada Bra'
+BOT_NAME = 'AES Hack'
 LOG_LEVEL = 'INFO'
 
 SPIDER_MODULES = ['TweetScraper.spiders']
